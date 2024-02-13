@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import re
 
 def get_info_from_url(url):
     response = requests.get(url)
@@ -39,17 +40,19 @@ for index, row in enumerate(soup.select('tr'), start=1):
                 item_count_key = f"{item_count}_item" if item_count == "1" else f"{item_count}_items"
 
                 full_description=""
-
-                current_element = bonus
-
-                while True:
-                    current_element = current_element.next_element
-                    if not current_element or current_element.name == 'strong':
+                for sibling in bonus.next_siblings:
+                    if sibling.name == 'strong':
                         break
-                    if isinstance(current_element, str):
-                        full_description += current_element.strip() + " "
+                    if sibling.name == 'br':
+                        continue
+                    if sibling.string:
+                        full_description += sibling.string.strip() + " "
+                    elif sibling.name == 'span':
+                        full_description += sibling.get_text(strip=True) + " "
 
-                bonuses[item_count_key] = full_description.strip()
+                clean_description = re.sub(r'\s+', ' ', full_description.strip())
+
+                bonuses[item_count_key] = clean_description
 
     set = {"id": index, "name": name, "type": type, "slug": slug, **bonuses}
     sets.append(set)
