@@ -14,9 +14,12 @@ html_content = get_info_from_url(url)
 
 soup = BeautifulSoup(html_content, 'html.parser')
 
-set_names = []
-for link in soup.select('td.d-none.d-xl-table-cell.align-middle a, span.d-xl-none a'):
-    set_name = link.get_text(strip=True)
-    set_names.append(set_name)
+sets = []
 
-print(set_names)
+for index, row in enumerate(soup.select('tr'), start=1):
+    name = row.select_one('td.d-none.d-xl-table-cell.align-middle a, span.d-xl-none a').get_text(strip=True)
+    type = row.select_one('small').get_text(strip=True) if row.select_one('small') else "Unknown Type"
+    set = {"id": index, "name": name, "type": type}
+    sets.append(set)
+
+print(sets)
