@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import json
 
 def get_info_from_url(url):
     response = requests.get(url)
@@ -27,4 +28,7 @@ for index, row in enumerate(soup.select('tr'), start=1):
     set = {"id": index, "name": name, "type": type, "slug": slug}
     sets.append(set)
 
-print(sets)
+sets_json = json.dumps(sets, indent=4)
+
+with open('eso.sets.json', 'w') as file:
+    file.write(sets_json)

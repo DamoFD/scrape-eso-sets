@@ -1,0 +1,3824 @@
+[
+    {
+        "id": 1,
+        "name": "Abyssal Brace",
+        "type": "Dungeon",
+        "slug": "abyssal-brace"
+    },
+    {
+        "id": 2,
+        "name": "Adamant Lurker",
+        "type": "Overland",
+        "slug": "adamant-lurker"
+    },
+    {
+        "id": 3,
+        "name": "Adept Rider",
+        "type": "Craftable",
+        "slug": "adept-rider"
+    },
+    {
+        "id": 4,
+        "name": "Aegis Caller",
+        "type": "Dungeon",
+        "slug": "aegis-caller"
+    },
+    {
+        "id": 5,
+        "name": "Aegis of Galenwe",
+        "type": "Trial",
+        "slug": "aegis-of-galenwe"
+    },
+    {
+        "id": 6,
+        "name": "Aetherial Ascension",
+        "type": "Craftable",
+        "slug": "aetherial-ascension"
+    },
+    {
+        "id": 7,
+        "name": "Affliction",
+        "type": "PvP",
+        "slug": "affliction"
+    },
+    {
+        "id": 8,
+        "name": "Agility",
+        "type": "PvP",
+        "slug": "agility"
+    },
+    {
+        "id": 9,
+        "name": "Akaviri Dragonguard",
+        "type": "Overland",
+        "slug": "akaviri-dragonguard"
+    },
+    {
+        "id": 10,
+        "name": "Alessia's Bulwark",
+        "type": "Craftable",
+        "slug": "alessias-bulwark"
+    },
+    {
+        "id": 11,
+        "name": "Alessian Order",
+        "type": "PvP",
+        "slug": "alessian-order"
+    },
+    {
+        "id": 12,
+        "name": "Almalexia's Mercy",
+        "type": "PvP",
+        "slug": "almalexias-mercy"
+    },
+    {
+        "id": 13,
+        "name": "Amber Plasm",
+        "type": "Dungeon",
+        "slug": "amber-plasm"
+    },
+    {
+        "id": 14,
+        "name": "Ancient Dragonguard",
+        "type": "Craftable",
+        "slug": "ancient-dragonguard"
+    },
+    {
+        "id": 15,
+        "name": "Ansuul's Torment",
+        "type": "Trial",
+        "slug": "ansuuls-torment"
+    },
+    {
+        "id": 16,
+        "name": "Anthelmir's Construct",
+        "type": "Monster Set",
+        "slug": "anthelmirs-construct"
+    },
+    {
+        "id": 17,
+        "name": "Apocryphal Inspiration",
+        "type": "Dungeon",
+        "slug": "apocryphal-inspiration"
+    },
+    {
+        "id": 18,
+        "name": "Archdruid Devyric",
+        "type": "Monster Set",
+        "slug": "archdruid-devyric"
+    },
+    {
+        "id": 19,
+        "name": "Archer's Mind",
+        "type": "Arena",
+        "slug": "archers-mind"
+    },
+    {
+        "id": 20,
+        "name": "Arkasis's Genius",
+        "type": "Dungeon",
+        "slug": "arkasiss-genius"
+    },
+    {
+        "id": 21,
+        "name": "Armor Master",
+        "type": "Craftable",
+        "slug": "armor-master"
+    },
+    {
+        "id": 22,
+        "name": "Armor of Truth",
+        "type": "Dungeon",
+        "slug": "armor-of-truth"
+    },
+    {
+        "id": 23,
+        "name": "Armor of the Code",
+        "type": "Unknown",
+        "slug": "armor-of-the-code"
+    },
+    {
+        "id": 24,
+        "name": "Armor of the Seducer",
+        "type": "Craftable",
+        "slug": "armor-of-the-seducer"
+    },
+    {
+        "id": 25,
+        "name": "Armor of the Trainee",
+        "type": "Overland",
+        "slug": "armor-of-the-trainee"
+    },
+    {
+        "id": 26,
+        "name": "Armor of the Veiled Heritance",
+        "type": "Overland",
+        "slug": "armor-of-the-veiled-heritance"
+    },
+    {
+        "id": 27,
+        "name": "Arms of Infernace",
+        "type": "Unknown",
+        "slug": "arms-of-infernace"
+    },
+    {
+        "id": 28,
+        "name": "Arms of Relequen",
+        "type": "Trial",
+        "slug": "arms-of-relequen"
+    },
+    {
+        "id": 29,
+        "name": "Arms of the Ancestors",
+        "type": "Unknown",
+        "slug": "arms-of-the-ancestors"
+    },
+    {
+        "id": 30,
+        "name": "Ashen Grip",
+        "type": "Craftable",
+        "slug": "ashen-grip"
+    },
+    {
+        "id": 31,
+        "name": "Aspect of Mazzatun",
+        "type": "Dungeon",
+        "slug": "aspect-of-mazzatun"
+    },
+    {
+        "id": 32,
+        "name": "Assassin's Guile",
+        "type": "Craftable",
+        "slug": "assassins-guile"
+    },
+    {
+        "id": 33,
+        "name": "Auroran's Thunder",
+        "type": "Dungeon",
+        "slug": "aurorans-thunder"
+    },
+    {
+        "id": 34,
+        "name": "Automated Defense",
+        "type": "Trial",
+        "slug": "automated-defense"
+    },
+    {
+        "id": 35,
+        "name": "Azureblight Reaper",
+        "type": "Dungeon",
+        "slug": "azureblight-reaper"
+    },
+    {
+        "id": 36,
+        "name": "Baan Dar's Blessing",
+        "type": "PvP",
+        "slug": "baan-dars-blessing"
+    },
+    {
+        "id": 37,
+        "name": "Back-Alley Gourmand",
+        "type": "Overland",
+        "slug": "back-alley-gourmand"
+    },
+    {
+        "id": 38,
+        "name": "Bahraha's Curse",
+        "type": "Overland",
+        "slug": "bahrahas-curse"
+    },
+    {
+        "id": 39,
+        "name": "Bahsei's Mania",
+        "type": "Trial",
+        "slug": "bahseis-mania"
+    },
+    {
+        "id": 40,
+        "name": "Balorgh",
+        "type": "Monster Set",
+        "slug": "balorgh"
+    },
+    {
+        "id": 41,
+        "name": "Bani's Torment",
+        "type": "Dungeon",
+        "slug": "banis-torment"
+    },
+    {
+        "id": 42,
+        "name": "Barkskin",
+        "type": "Dungeon",
+        "slug": "barkskin"
+    },
+    {
+        "id": 43,
+        "name": "Baron Thirsk",
+        "type": "Monster Set",
+        "slug": "baron-thirsk"
+    },
+    {
+        "id": 44,
+        "name": "Baron Zaudrus",
+        "type": "Monster Set",
+        "slug": "baron-zaudrus"
+    },
+    {
+        "id": 45,
+        "name": "Basalt-Blooded Warrior",
+        "type": "Class Sets",
+        "slug": "basalt-blooded-warrior"
+    },
+    {
+        "id": 46,
+        "name": "Bastion of the Draoife",
+        "type": "Overland",
+        "slug": "bastion-of-the-draoife"
+    },
+    {
+        "id": 47,
+        "name": "Bastion of the Heartland",
+        "type": "PvP",
+        "slug": "bastion-of-the-heartland"
+    },
+    {
+        "id": 48,
+        "name": "Battalion Defender",
+        "type": "PvP",
+        "slug": "battalion-defender"
+    },
+    {
+        "id": 49,
+        "name": "Battlefield Acrobat",
+        "type": "PvP",
+        "slug": "battlefield-acrobat"
+    },
+    {
+        "id": 50,
+        "name": "Beckoning Steel",
+        "type": "PvP",
+        "slug": "beckoning-steel"
+    },
+    {
+        "id": 51,
+        "name": "Beekeeper's Gear",
+        "type": "Overland",
+        "slug": "beekeepers-gear"
+    },
+    {
+        "id": 52,
+        "name": "Belharza's Band",
+        "type": "Mythic",
+        "slug": "belharzas-band"
+    },
+    {
+        "id": 53,
+        "name": "Berserking Warrior",
+        "type": "Trial",
+        "slug": "berserking-warrior"
+    },
+    {
+        "id": 54,
+        "name": "Black Rose",
+        "type": "PvP",
+        "slug": "black-rose"
+    },
+    {
+        "id": 55,
+        "name": "Black-Glove Grounding",
+        "type": "Dungeon",
+        "slug": "black-glove-grounding"
+    },
+    {
+        "id": 56,
+        "name": "Blessing of High Isle",
+        "type": "Overland",
+        "slug": "blessing-of-high-isle"
+    },
+    {
+        "id": 57,
+        "name": "Blessing of the Potentates",
+        "type": "PvP",
+        "slug": "blessing-of-the-potentates"
+    },
+    {
+        "id": 58,
+        "name": "Blind Path Induction",
+        "type": "Dungeon",
+        "slug": "blind-path-induction"
+    },
+    {
+        "id": 59,
+        "name": "Blood Moon",
+        "type": "Dungeon",
+        "slug": "blood-moon"
+    },
+    {
+        "id": 60,
+        "name": "Blooddrinker",
+        "type": "Dungeon",
+        "slug": "blooddrinker"
+    },
+    {
+        "id": 61,
+        "name": "Bloodlord's Embrace",
+        "type": "Mythic",
+        "slug": "bloodlords-embrace"
+    },
+    {
+        "id": 62,
+        "name": "Bloodspawn",
+        "type": "Monster Set",
+        "slug": "bloodspawn"
+    },
+    {
+        "id": 63,
+        "name": "Bloodthorn's Touch",
+        "type": "Overland",
+        "slug": "bloodthorns-touch"
+    },
+    {
+        "id": 64,
+        "name": "Blunted Blades",
+        "type": "PvP",
+        "slug": "blunted-blades"
+    },
+    {
+        "id": 65,
+        "name": "Blunted Blades",
+        "type": "PvP",
+        "slug": "blunted-blades"
+    },
+    {
+        "id": 66,
+        "name": "Bog Raider",
+        "type": "Overland",
+        "slug": "bog-raider"
+    },
+    {
+        "id": 67,
+        "name": "Bone Pirate's Tatters",
+        "type": "Dungeon",
+        "slug": "bone-pirates-tatters"
+    },
+    {
+        "id": 68,
+        "name": "Brands of Imperium",
+        "type": "Dungeon",
+        "slug": "brands-of-imperium"
+    },
+    {
+        "id": 69,
+        "name": "Briarheart",
+        "type": "Overland",
+        "slug": "briarheart"
+    },
+    {
+        "id": 70,
+        "name": "Bright-Throat's Boast",
+        "type": "Overland",
+        "slug": "bright-throats-boast"
+    },
+    {
+        "id": 71,
+        "name": "Broken Soul",
+        "type": "Unknown",
+        "slug": "broken-soul"
+    },
+    {
+        "id": 72,
+        "name": "Buffer of the Swift",
+        "type": "PvP",
+        "slug": "buffer-of-the-swift"
+    },
+    {
+        "id": 73,
+        "name": "Burning Spellweave",
+        "type": "Dungeon",
+        "slug": "burning-spellweave"
+    },
+    {
+        "id": 74,
+        "name": "Call of the Undertaker",
+        "type": "Overland",
+        "slug": "call-of-the-undertaker"
+    },
+    {
+        "id": 75,
+        "name": "Caluurion's Legacy",
+        "type": "Dungeon",
+        "slug": "caluurions-legacy"
+    },
+    {
+        "id": 76,
+        "name": "Camonna Tong",
+        "type": "Overland",
+        "slug": "camonna-tong"
+    },
+    {
+        "id": 77,
+        "name": "Caustic Arrow",
+        "type": "Arena",
+        "slug": "caustic-arrow"
+    },
+    {
+        "id": 78,
+        "name": "Champion of the Hist",
+        "type": "Overland",
+        "slug": "champion-of-the-hist"
+    },
+    {
+        "id": 79,
+        "name": "Chaotic Whirlwind",
+        "type": "Trial",
+        "slug": "chaotic-whirlwind"
+    },
+    {
+        "id": 80,
+        "name": "Chimera's Rebuke",
+        "type": "Craftable",
+        "slug": "chimeras-rebuke"
+    },
+    {
+        "id": 81,
+        "name": "Chokethorn",
+        "type": "Monster Set",
+        "slug": "chokethorn"
+    },
+    {
+        "id": 82,
+        "name": "Cinders of Anthelmir",
+        "type": "Dungeon",
+        "slug": "cinders-of-anthelmir"
+    },
+    {
+        "id": 83,
+        "name": "Claw of Yolnahkriin",
+        "type": "Trial",
+        "slug": "claw-of-yolnahkriin"
+    },
+    {
+        "id": 84,
+        "name": "Claw of the Forest Wraith",
+        "type": "Craftable",
+        "slug": "claw-of-the-forest-wraith"
+    },
+    {
+        "id": 85,
+        "name": "Clever Alchemist",
+        "type": "Craftable",
+        "slug": "clever-alchemist"
+    },
+    {
+        "id": 86,
+        "name": "Coldharbour's Favorite",
+        "type": "Craftable",
+        "slug": "coldharbours-favorite"
+    },
+    {
+        "id": 87,
+        "name": "Colovian Highlands General",
+        "type": "PvP",
+        "slug": "colovian-highlands-general"
+    },
+    {
+        "id": 88,
+        "name": "Combat Physician",
+        "type": "Dungeon",
+        "slug": "combat-physician"
+    },
+    {
+        "id": 89,
+        "name": "Concentrated Force",
+        "type": "Trial",
+        "slug": "concentrated-force"
+    },
+    {
+        "id": 90,
+        "name": "Coral Riptide",
+        "type": "Trial",
+        "slug": "coral-riptide"
+    },
+    {
+        "id": 91,
+        "name": "Coward's Gear",
+        "type": "PvP",
+        "slug": "cowards-gear"
+    },
+    {
+        "id": 92,
+        "name": "Crafty Alfiq",
+        "type": "Overland",
+        "slug": "crafty-alfiq"
+    },
+    {
+        "id": 93,
+        "name": "Crest of Cyrodiil",
+        "type": "PvP",
+        "slug": "crest-of-cyrodiil"
+    },
+    {
+        "id": 94,
+        "name": "Crimson Oath's Rive",
+        "type": "Dungeon",
+        "slug": "crimson-oaths-rive"
+    },
+    {
+        "id": 95,
+        "name": "Crimson Twilight",
+        "type": "Dungeon",
+        "slug": "crimson-twilight"
+    },
+    {
+        "id": 96,
+        "name": "Critical Riposte",
+        "type": "Craftable",
+        "slug": "critical-riposte"
+    },
+    {
+        "id": 97,
+        "name": "Cruel Flurry",
+        "type": "Arena",
+        "slug": "cruel-flurry"
+    },
+    {
+        "id": 98,
+        "name": "Crusader",
+        "type": "Dungeon",
+        "slug": "crusader"
+    },
+    {
+        "id": 99,
+        "name": "Crushing Wall",
+        "type": "Arena",
+        "slug": "crushing-wall"
+    },
+    {
+        "id": 100,
+        "name": "Cryptcanon Vestments",
+        "type": "Mythic",
+        "slug": "cryptcanon-vestments"
+    },
+    {
+        "id": 101,
+        "name": "Curse Eater",
+        "type": "PvP",
+        "slug": "curse-eater"
+    },
+    {
+        "id": 102,
+        "name": "Curse of Doylemish",
+        "type": "Dungeon",
+        "slug": "curse-of-doylemish"
+    },
+    {
+        "id": 103,
+        "name": "Daedric Trickery",
+        "type": "Craftable",
+        "slug": "daedric-trickery"
+    },
+    {
+        "id": 104,
+        "name": "Dagon's Dominion",
+        "type": "Dungeon",
+        "slug": "dagons-dominion"
+    },
+    {
+        "id": 105,
+        "name": "Daring Corsair",
+        "type": "Craftable",
+        "slug": "daring-corsair"
+    },
+    {
+        "id": 106,
+        "name": "Dark Convergence",
+        "type": "PvP",
+        "slug": "dark-convergence"
+    },
+    {
+        "id": 107,
+        "name": "Darkstride",
+        "type": "Overland",
+        "slug": "darkstride"
+    },
+    {
+        "id": 108,
+        "name": "Dauntless Combatant",
+        "type": "Craftable",
+        "slug": "dauntless-combatant"
+    },
+    {
+        "id": 109,
+        "name": "Dead-Water's Guile",
+        "type": "Overland",
+        "slug": "dead-waters-guile"
+    },
+    {
+        "id": 110,
+        "name": "Deadlands Assassin",
+        "type": "Overland",
+        "slug": "deadlands-assassin"
+    },
+    {
+        "id": 111,
+        "name": "Deadlands Demolisher",
+        "type": "Craftable",
+        "slug": "deadlands-demolisher"
+    },
+    {
+        "id": 112,
+        "name": "Deadly Strike",
+        "type": "PvP",
+        "slug": "deadly-strike"
+    },
+    {
+        "id": 113,
+        "name": "Death Dealer's Fete",
+        "type": "Mythic",
+        "slug": "death-dealers-fete"
+    },
+    {
+        "id": 114,
+        "name": "Death's Wind",
+        "type": "Craftable",
+        "slug": "deaths-wind"
+    },
+    {
+        "id": 115,
+        "name": "Deeproot Zeal",
+        "type": "Dungeon",
+        "slug": "deeproot-zeal"
+    },
+    {
+        "id": 116,
+        "name": "Defending Warrior",
+        "type": "Trial",
+        "slug": "defending-warrior"
+    },
+    {
+        "id": 117,
+        "name": "Defensive Position",
+        "type": "Trial",
+        "slug": "defensive-position"
+    },
+    {
+        "id": 118,
+        "name": "Defiler",
+        "type": "Overland",
+        "slug": "defiler"
+    },
+    {
+        "id": 119,
+        "name": "Desert Rose",
+        "type": "PvP",
+        "slug": "desert-rose"
+    },
+    {
+        "id": 120,
+        "name": "Destructive Impact",
+        "type": "Arena",
+        "slug": "destructive-impact"
+    },
+    {
+        "id": 121,
+        "name": "Destructive Mage",
+        "type": "Trial",
+        "slug": "destructive-mage"
+    },
+    {
+        "id": 122,
+        "name": "Diamond's Victory",
+        "type": "Craftable",
+        "slug": "diamonds-victory"
+    },
+    {
+        "id": 123,
+        "name": "Disciplined Slash",
+        "type": "Trial",
+        "slug": "disciplined-slash"
+    },
+    {
+        "id": 124,
+        "name": "Domihaus",
+        "type": "Monster Set",
+        "slug": "domihaus"
+    },
+    {
+        "id": 125,
+        "name": "Dov-Rha Sabatons",
+        "type": "Mythic",
+        "slug": "dov-rha-sabatons"
+    },
+    {
+        "id": 126,
+        "name": "Dragon's Appetite",
+        "type": "Craftable",
+        "slug": "dragons-appetite"
+    },
+    {
+        "id": 127,
+        "name": "Dragon's Defilement",
+        "type": "Dungeon",
+        "slug": "dragons-defilement"
+    },
+    {
+        "id": 128,
+        "name": "Dragonguard Elite",
+        "type": "Overland",
+        "slug": "dragonguard-elite"
+    },
+    {
+        "id": 129,
+        "name": "Drake's Rush",
+        "type": "Dungeon",
+        "slug": "drakes-rush"
+    },
+    {
+        "id": 130,
+        "name": "Draugr Hulk",
+        "type": "Dungeon",
+        "slug": "draugr-hulk"
+    },
+    {
+        "id": 131,
+        "name": "Draugr's Heritage",
+        "type": "Overland",
+        "slug": "draugrs-heritage"
+    },
+    {
+        "id": 132,
+        "name": "Draugr's Rest",
+        "type": "Dungeon",
+        "slug": "draugrs-rest"
+    },
+    {
+        "id": 133,
+        "name": "Draugrkin's Grip",
+        "type": "Dungeon",
+        "slug": "draugrkins-grip"
+    },
+    {
+        "id": 134,
+        "name": "Dreamer's Mantle",
+        "type": "Overland",
+        "slug": "dreamers-mantle"
+    },
+    {
+        "id": 135,
+        "name": "Dreugh King Slayer",
+        "type": "Dungeon",
+        "slug": "dreugh-king-slayer"
+    },
+    {
+        "id": 136,
+        "name": "Dro'Zakar's Claws",
+        "type": "Dungeon",
+        "slug": "drozakars-claws"
+    },
+    {
+        "id": 137,
+        "name": "Druid's Braid",
+        "type": "Craftable",
+        "slug": "druids-braid"
+    },
+    {
+        "id": 138,
+        "name": "Duneripper's Scales",
+        "type": "Dungeon",
+        "slug": "dunerippers-scales"
+    },
+    {
+        "id": 139,
+        "name": "Durok's Bane",
+        "type": "Dungeon",
+        "slug": "duroks-bane"
+    },
+    {
+        "id": 140,
+        "name": "Eagle Eye",
+        "type": "PvP",
+        "slug": "eagle-eye"
+    },
+    {
+        "id": 141,
+        "name": "Earthgore",
+        "type": "Monster Set",
+        "slug": "earthgore"
+    },
+    {
+        "id": 142,
+        "name": "Ebon Armory",
+        "type": "Dungeon",
+        "slug": "ebon-armory"
+    },
+    {
+        "id": 143,
+        "name": "Elemental Catalyst",
+        "type": "Dungeon",
+        "slug": "elemental-catalyst"
+    },
+    {
+        "id": 144,
+        "name": "Elemental Succession",
+        "type": "Arena",
+        "slug": "elemental-succession"
+    },
+    {
+        "id": 145,
+        "name": "Elf Bane",
+        "type": "PvP",
+        "slug": "elf-bane"
+    },
+    {
+        "id": 146,
+        "name": "Embershield",
+        "type": "Dungeon",
+        "slug": "embershield"
+    },
+    {
+        "id": 147,
+        "name": "Encratis's Behemoth",
+        "type": "Monster Set",
+        "slug": "encratiss-behemoth"
+    },
+    {
+        "id": 148,
+        "name": "Endurance",
+        "type": "PvP",
+        "slug": "endurance"
+    },
+    {
+        "id": 149,
+        "name": "Enervating Aura",
+        "type": "PvP",
+        "slug": "enervating-aura"
+    },
+    {
+        "id": 150,
+        "name": "Engine Guardian",
+        "type": "Monster Set",
+        "slug": "engine-guardian"
+    },
+    {
+        "id": 151,
+        "name": "Esoteric Environment Greaves",
+        "type": "Mythic",
+        "slug": "esoteric-environment-greaves"
+    },
+    {
+        "id": 152,
+        "name": "Essence Thief",
+        "type": "Dungeon",
+        "slug": "essence-thief"
+    },
+    {
+        "id": 153,
+        "name": "Eternal Hunt",
+        "type": "Craftable",
+        "slug": "eternal-hunt"
+    },
+    {
+        "id": 154,
+        "name": "Eternal Vigor",
+        "type": "Overland",
+        "slug": "eternal-vigor"
+    },
+    {
+        "id": 155,
+        "name": "Eternal Warrior",
+        "type": "Trial",
+        "slug": "eternal-warrior"
+    },
+    {
+        "id": 156,
+        "name": "Euphotic Gatekeeper",
+        "type": "Monster Set",
+        "slug": "euphotic-gatekeeper"
+    },
+    {
+        "id": 157,
+        "name": "Executioner's Blade",
+        "type": "Arena",
+        "slug": "executioners-blade"
+    },
+    {
+        "id": 158,
+        "name": "Explosive Rebuke",
+        "type": "Arena",
+        "slug": "explosive-rebuke"
+    },
+    {
+        "id": 159,
+        "name": "Eye of Nahviintaas",
+        "type": "Trial",
+        "slug": "eye-of-nahviintaas"
+    },
+    {
+        "id": 160,
+        "name": "Eye of the Grasp",
+        "type": "Overland",
+        "slug": "eye-of-the-grasp"
+    },
+    {
+        "id": 161,
+        "name": "Eyes of Mara",
+        "type": "Craftable",
+        "slug": "eyes-of-mara"
+    },
+    {
+        "id": 162,
+        "name": "False God's Devotion",
+        "type": "Trial",
+        "slug": "false-gods-devotion"
+    },
+    {
+        "id": 163,
+        "name": "Fasalla's Guile",
+        "type": "PvP",
+        "slug": "fasallas-guile"
+    },
+    {
+        "id": 164,
+        "name": "Faun's Lark Cladding",
+        "type": "Mythic",
+        "slug": "fauns-lark-cladding"
+    },
+    {
+        "id": 165,
+        "name": "Fiord's Legacy",
+        "type": "Overland",
+        "slug": "fiords-legacy"
+    },
+    {
+        "id": 166,
+        "name": "Flame Blossom",
+        "type": "Dungeon",
+        "slug": "flame-blossom"
+    },
+    {
+        "id": 167,
+        "name": "Flanking Strategist",
+        "type": "Overland",
+        "slug": "flanking-strategist"
+    },
+    {
+        "id": 168,
+        "name": "Foolkiller's Ward",
+        "type": "Dungeon",
+        "slug": "foolkillers-ward"
+    },
+    {
+        "id": 169,
+        "name": "Footman's Fortune",
+        "type": "Arena",
+        "slug": "footmans-fortune"
+    },
+    {
+        "id": 170,
+        "name": "Force Overflow",
+        "type": "Arena",
+        "slug": "force-overflow"
+    },
+    {
+        "id": 171,
+        "name": "Fortified Brass",
+        "type": "Craftable",
+        "slug": "fortified-brass"
+    },
+    {
+        "id": 172,
+        "name": "Frenzied Momentum",
+        "type": "Arena",
+        "slug": "frenzied-momentum"
+    },
+    {
+        "id": 173,
+        "name": "Frostbite",
+        "type": "Overland",
+        "slug": "frostbite"
+    },
+    {
+        "id": 174,
+        "name": "Frozen Watcher",
+        "type": "Dungeon",
+        "slug": "frozen-watcher"
+    },
+    {
+        "id": 175,
+        "name": "Galerion's Revenge",
+        "type": "PvP",
+        "slug": "galerions-revenge"
+    },
+    {
+        "id": 176,
+        "name": "Gallant Charge",
+        "type": "Arena",
+        "slug": "gallant-charge"
+    },
+    {
+        "id": 177,
+        "name": "Gardener of Seasons",
+        "type": "Class Sets",
+        "slug": "gardener-of-seasons"
+    },
+    {
+        "id": 178,
+        "name": "Gaze of Sithis",
+        "type": "Mythic",
+        "slug": "gaze-of-sithis"
+    },
+    {
+        "id": 179,
+        "name": "Giant Spider",
+        "type": "Unknown",
+        "slug": "giant-spider"
+    },
+    {
+        "id": 180,
+        "name": "Glacial Guardian",
+        "type": "Dungeon",
+        "slug": "glacial-guardian"
+    },
+    {
+        "id": 181,
+        "name": "Glorgoloch the Destroyer",
+        "type": "Monster Set",
+        "slug": "glorgoloch-the-destroyer"
+    },
+    {
+        "id": 182,
+        "name": "Glorious Defender",
+        "type": "Arena",
+        "slug": "glorious-defender"
+    },
+    {
+        "id": 183,
+        "name": "Gossamer",
+        "type": "Dungeon",
+        "slug": "gossamer"
+    },
+    {
+        "id": 184,
+        "name": "Grace of Gloom",
+        "type": "Overland",
+        "slug": "grace-of-gloom"
+    },
+    {
+        "id": 185,
+        "name": "Grace of the Ancients",
+        "type": "PvP",
+        "slug": "grace-of-the-ancients"
+    },
+    {
+        "id": 186,
+        "name": "Grand Rejuvenation",
+        "type": "Arena",
+        "slug": "grand-rejuvenation"
+    },
+    {
+        "id": 187,
+        "name": "Grave Guardian",
+        "type": "Dungeon",
+        "slug": "grave-guardian"
+    },
+    {
+        "id": 188,
+        "name": "Grave Inevitability",
+        "type": "Dungeon",
+        "slug": "grave-inevitability"
+    },
+    {
+        "id": 189,
+        "name": "Grave-Stake Collector",
+        "type": "Craftable",
+        "slug": "grave-stake-collector"
+    },
+    {
+        "id": 190,
+        "name": "Green Pact",
+        "type": "Overland",
+        "slug": "green-pact"
+    },
+    {
+        "id": 191,
+        "name": "Grisly Gourmet",
+        "type": "Dungeon",
+        "slug": "grisly-gourmet"
+    },
+    {
+        "id": 192,
+        "name": "Grothdarr",
+        "type": "Monster Set",
+        "slug": "grothdarr"
+    },
+    {
+        "id": 193,
+        "name": "Grundwulf",
+        "type": "Monster Set",
+        "slug": "grundwulf"
+    },
+    {
+        "id": 194,
+        "name": "Gryphon's Ferocity",
+        "type": "Overland",
+        "slug": "gryphons-ferocity"
+    },
+    {
+        "id": 195,
+        "name": "Gryphon's Reprisal",
+        "type": "Dungeon",
+        "slug": "gryphons-reprisal"
+    },
+    {
+        "id": 196,
+        "name": "Hagraven's Garden",
+        "type": "Dungeon",
+        "slug": "hagravens-garden"
+    },
+    {
+        "id": 197,
+        "name": "Hand of Mephala",
+        "type": "Dungeon",
+        "slug": "hand-of-mephala"
+    },
+    {
+        "id": 198,
+        "name": "Hanu's Compassion",
+        "type": "Dungeon",
+        "slug": "hanus-compassion"
+    },
+    {
+        "id": 199,
+        "name": "Harpooner's Wading Kilt",
+        "type": "Mythic",
+        "slug": "harpooners-wading-kilt"
+    },
+    {
+        "id": 200,
+        "name": "Harvester's Hope-Ring",
+        "type": "Unknown",
+        "slug": "harvesters-hope-ring"
+    },
+    {
+        "id": 201,
+        "name": "Hatchling's Shell",
+        "type": "Overland",
+        "slug": "hatchlings-shell"
+    },
+    {
+        "id": 202,
+        "name": "Haven of Ursus",
+        "type": "Dungeon",
+        "slug": "haven-of-ursus"
+    },
+    {
+        "id": 203,
+        "name": "Hawk's Eye",
+        "type": "PvP",
+        "slug": "hawks-eye"
+    },
+    {
+        "id": 204,
+        "name": "Healer's Habit",
+        "type": "Arena",
+        "slug": "healers-habit"
+    },
+    {
+        "id": 205,
+        "name": "Healing Mage",
+        "type": "Trial",
+        "slug": "healing-mage"
+    },
+    {
+        "id": 206,
+        "name": "Heartland Conqueror",
+        "type": "Craftable",
+        "slug": "heartland-conqueror"
+    },
+    {
+        "id": 207,
+        "name": "Heem-Jas' Retribution",
+        "type": "Dungeon",
+        "slug": "heem-jas-retribution"
+    },
+    {
+        "id": 208,
+        "name": "Hew and Sunder",
+        "type": "PvP",
+        "slug": "hew-and-sunder"
+    },
+    {
+        "id": 209,
+        "name": "Hex Siphon",
+        "type": "Arena",
+        "slug": "hex-siphon"
+    },
+    {
+        "id": 210,
+        "name": "Hexos' Ward",
+        "type": "Overland",
+        "slug": "hexos-ward"
+    },
+    {
+        "id": 211,
+        "name": "Hide of Morihaus",
+        "type": "Overland",
+        "slug": "hide-of-morihaus"
+    },
+    {
+        "id": 212,
+        "name": "Hide of the Werewolf",
+        "type": "Overland",
+        "slug": "hide-of-the-werewolf"
+    },
+    {
+        "id": 213,
+        "name": "Hircine's Veneer",
+        "type": "Dungeon",
+        "slug": "hircines-veneer"
+    },
+    {
+        "id": 214,
+        "name": "Hist Bark",
+        "type": "Craftable",
+        "slug": "hist-bark"
+    },
+    {
+        "id": 215,
+        "name": "Hist Whisperer",
+        "type": "Craftable",
+        "slug": "hist-whisperer"
+    },
+    {
+        "id": 216,
+        "name": "Hiti's Hearth",
+        "type": "Dungeon",
+        "slug": "hitis-hearth"
+    },
+    {
+        "id": 217,
+        "name": "Hollowfang Thirst",
+        "type": "Dungeon",
+        "slug": "hollowfang-thirst"
+    },
+    {
+        "id": 218,
+        "name": "Hrothgar's Chill",
+        "type": "PvP",
+        "slug": "hrothgars-chill"
+    },
+    {
+        "id": 219,
+        "name": "Hunding's Rage",
+        "type": "Craftable",
+        "slug": "hundings-rage"
+    },
+    {
+        "id": 220,
+        "name": "Hunt Leader",
+        "type": "Arena",
+        "slug": "hunt-leader"
+    },
+    {
+        "id": 221,
+        "name": "Iceheart",
+        "type": "Monster Set",
+        "slug": "iceheart"
+    },
+    {
+        "id": 222,
+        "name": "Icy Conjurer",
+        "type": "Dungeon",
+        "slug": "icy-conjurer"
+    },
+    {
+        "id": 223,
+        "name": "Ilambris",
+        "type": "Monster Set",
+        "slug": "ilambris"
+    },
+    {
+        "id": 224,
+        "name": "Immolator Charr",
+        "type": "Monster Set",
+        "slug": "immolator-charr"
+    },
+    {
+        "id": 225,
+        "name": "Immortal Warrior",
+        "type": "Trial",
+        "slug": "immortal-warrior"
+    },
+    {
+        "id": 226,
+        "name": "Imperial Physique",
+        "type": "PvP",
+        "slug": "imperial-physique"
+    },
+    {
+        "id": 227,
+        "name": "Impregnable Armor",
+        "type": "PvP",
+        "slug": "impregnable-armor"
+    },
+    {
+        "id": 228,
+        "name": "Indomitable Fury",
+        "type": "PvP",
+        "slug": "indomitable-fury"
+    },
+    {
+        "id": 229,
+        "name": "Infallible Mage",
+        "type": "Trial",
+        "slug": "infallible-mage"
+    },
+    {
+        "id": 230,
+        "name": "Infernal Guardian",
+        "type": "Monster Set",
+        "slug": "infernal-guardian"
+    },
+    {
+        "id": 231,
+        "name": "Innate Axiom",
+        "type": "Craftable",
+        "slug": "innate-axiom"
+    },
+    {
+        "id": 232,
+        "name": "Inventor's Guard",
+        "type": "Trial",
+        "slug": "inventors-guard"
+    },
+    {
+        "id": 233,
+        "name": "Iron Flask",
+        "type": "Craftable",
+        "slug": "iron-flask"
+    },
+    {
+        "id": 234,
+        "name": "Ironblood",
+        "type": "Dungeon",
+        "slug": "ironblood"
+    },
+    {
+        "id": 235,
+        "name": "Jailbreaker",
+        "type": "Dungeon",
+        "slug": "jailbreaker"
+    },
+    {
+        "id": 236,
+        "name": "Jailer's Tenacity",
+        "type": "Dungeon",
+        "slug": "jailers-tenacity"
+    },
+    {
+        "id": 237,
+        "name": "Jerall Mountains Warchief",
+        "type": "PvP",
+        "slug": "jerall-mountains-warchief"
+    },
+    {
+        "id": 238,
+        "name": "Jolting Arms",
+        "type": "Dungeon",
+        "slug": "jolting-arms"
+    },
+    {
+        "id": 239,
+        "name": "Jorvuld's Guidance",
+        "type": "Dungeon",
+        "slug": "jorvulds-guidance"
+    },
+    {
+        "id": 240,
+        "name": "Judgment of Akatosh",
+        "type": "PvP",
+        "slug": "judgment-of-akatosh"
+    },
+    {
+        "id": 241,
+        "name": "Kagrenac's Hope",
+        "type": "Craftable",
+        "slug": "kagrenacs-hope"
+    },
+    {
+        "id": 242,
+        "name": "Kargaeda",
+        "type": "Monster Set",
+        "slug": "kargaeda"
+    },
+    {
+        "id": 243,
+        "name": "Kinras's Wrath",
+        "type": "Dungeon",
+        "slug": "kinrass-wrath"
+    },
+    {
+        "id": 244,
+        "name": "Kjalnar's Nightmare",
+        "type": "Monster Set",
+        "slug": "kjalnars-nightmare"
+    },
+    {
+        "id": 245,
+        "name": "Knight Slayer",
+        "type": "PvP",
+        "slug": "knight-slayer"
+    },
+    {
+        "id": 246,
+        "name": "Knight-Errant's Mail",
+        "type": "Dungeon",
+        "slug": "knight-errants-mail"
+    },
+    {
+        "id": 247,
+        "name": "Knightmare",
+        "type": "Dungeon",
+        "slug": "knightmare"
+    },
+    {
+        "id": 248,
+        "name": "Kra'gh",
+        "type": "Monster Set",
+        "slug": "kragh"
+    },
+    {
+        "id": 249,
+        "name": "Kraglen's Howl",
+        "type": "Dungeon",
+        "slug": "kraglens-howl"
+    },
+    {
+        "id": 250,
+        "name": "Kvatch Gladiator",
+        "type": "Craftable",
+        "slug": "kvatch-gladiator"
+    },
+    {
+        "id": 251,
+        "name": "Kyne's Kiss",
+        "type": "PvP",
+        "slug": "kynes-kiss"
+    },
+    {
+        "id": 252,
+        "name": "Kyne's Wind",
+        "type": "Trial",
+        "slug": "kynes-wind"
+    },
+    {
+        "id": 253,
+        "name": "Kynmarcher's Cruelty",
+        "type": "Overland",
+        "slug": "kynmarchers-cruelty"
+    },
+    {
+        "id": 254,
+        "name": "Lady Malygda",
+        "type": "Monster Set",
+        "slug": "lady-malygda"
+    },
+    {
+        "id": 255,
+        "name": "Lady Thorn",
+        "type": "Monster Set",
+        "slug": "lady-thorn"
+    },
+    {
+        "id": 256,
+        "name": "Lamia's Song",
+        "type": "Dungeon",
+        "slug": "lamias-song"
+    },
+    {
+        "id": 257,
+        "name": "Languor of Peryite",
+        "type": "PvP",
+        "slug": "languor-of-peryite"
+    },
+    {
+        "id": 258,
+        "name": "Law of Julianos",
+        "type": "Craftable",
+        "slug": "law-of-julianos"
+    },
+    {
+        "id": 259,
+        "name": "Leeching Plate",
+        "type": "Dungeon",
+        "slug": "leeching-plate"
+    },
+    {
+        "id": 260,
+        "name": "Lefthander's Aegis Belt",
+        "type": "Mythic",
+        "slug": "lefthanders-aegis-belt"
+    },
+    {
+        "id": 261,
+        "name": "Legacy of Karth",
+        "type": "Craftable",
+        "slug": "legacy-of-karth"
+    },
+    {
+        "id": 262,
+        "name": "Leki's Focus",
+        "type": "PvP",
+        "slug": "lekis-focus"
+    },
+    {
+        "id": 263,
+        "name": "Leviathan",
+        "type": "Dungeon",
+        "slug": "leviathan"
+    },
+    {
+        "id": 264,
+        "name": "Light Speaker",
+        "type": "Dungeon",
+        "slug": "light-speaker"
+    },
+    {
+        "id": 265,
+        "name": "Light of Cyrodiil",
+        "type": "PvP",
+        "slug": "light-of-cyrodiil"
+    },
+    {
+        "id": 266,
+        "name": "Livewire",
+        "type": "Overland",
+        "slug": "livewire"
+    },
+    {
+        "id": 267,
+        "name": "Lord Warden",
+        "type": "Monster Set",
+        "slug": "lord-warden"
+    },
+    {
+        "id": 268,
+        "name": "Lunar Bastion",
+        "type": "Trial",
+        "slug": "lunar-bastion"
+    },
+    {
+        "id": 269,
+        "name": "Maarselok",
+        "type": "Monster Set",
+        "slug": "maarselok"
+    },
+    {
+        "id": 270,
+        "name": "Mad Tinkerer",
+        "type": "Overland",
+        "slug": "mad-tinkerer"
+    },
+    {
+        "id": 271,
+        "name": "Magicka Furnace",
+        "type": "Dungeon",
+        "slug": "magicka-furnace"
+    },
+    {
+        "id": 272,
+        "name": "Magma Incarnate",
+        "type": "Monster Set",
+        "slug": "magma-incarnate"
+    },
+    {
+        "id": 273,
+        "name": "Magnus' Gift",
+        "type": "Craftable",
+        "slug": "magnus-gift"
+    },
+    {
+        "id": 274,
+        "name": "Malacath's Band of Brutality",
+        "type": "Mythic",
+        "slug": "malacaths-band-of-brutality"
+    },
+    {
+        "id": 275,
+        "name": "Maligalig's Maelstrom",
+        "type": "Dungeon",
+        "slug": "maligaligs-maelstrom"
+    },
+    {
+        "id": 276,
+        "name": "Mantle of Siroria",
+        "type": "Trial",
+        "slug": "mantle-of-siroria"
+    },
+    {
+        "id": 277,
+        "name": "Mara's Balm",
+        "type": "PvP",
+        "slug": "maras-balm"
+    },
+    {
+        "id": 278,
+        "name": "Marauder's Haste",
+        "type": "Overland",
+        "slug": "marauders-haste"
+    },
+    {
+        "id": 279,
+        "name": "Mark of the Pariah",
+        "type": "Overland",
+        "slug": "mark-of-the-pariah"
+    },
+    {
+        "id": 280,
+        "name": "Marksman's Crest",
+        "type": "PvP",
+        "slug": "marksmans-crest"
+    },
+    {
+        "id": 281,
+        "name": "Markyn Ring of Majesty",
+        "type": "Mythic",
+        "slug": "markyn-ring-of-majesty"
+    },
+    {
+        "id": 282,
+        "name": "Master Architect",
+        "type": "Trial",
+        "slug": "master-architect"
+    },
+    {
+        "id": 283,
+        "name": "Maw of the Infernal",
+        "type": "Monster Set",
+        "slug": "maw-of-the-infernal"
+    },
+    {
+        "id": 284,
+        "name": "Mechanical Acuity",
+        "type": "Craftable",
+        "slug": "mechanical-acuity"
+    },
+    {
+        "id": 285,
+        "name": "Medusa",
+        "type": "Dungeon",
+        "slug": "medusa"
+    },
+    {
+        "id": 286,
+        "name": "Mender's Ward",
+        "type": "Arena",
+        "slug": "menders-ward"
+    },
+    {
+        "id": 287,
+        "name": "Merciless Charge",
+        "type": "Arena",
+        "slug": "merciless-charge"
+    },
+    {
+        "id": 288,
+        "name": "Meridia's Blessed Armor",
+        "type": "Overland",
+        "slug": "meridias-blessed-armor"
+    },
+    {
+        "id": 289,
+        "name": "Meritorious Service",
+        "type": "PvP",
+        "slug": "meritorious-service"
+    },
+    {
+        "id": 290,
+        "name": "Might of the Lost Legion",
+        "type": "Craftable",
+        "slug": "might-of-the-lost-legion"
+    },
+    {
+        "id": 291,
+        "name": "Mighty Chudan",
+        "type": "Monster Set",
+        "slug": "mighty-chudan"
+    },
+    {
+        "id": 292,
+        "name": "Mighty Glacier",
+        "type": "Dungeon",
+        "slug": "mighty-glacier"
+    },
+    {
+        "id": 293,
+        "name": "Molag Kena",
+        "type": "Monster Set",
+        "slug": "molag-kena"
+    },
+    {
+        "id": 294,
+        "name": "Monolith of Storms",
+        "type": "Class Sets",
+        "slug": "monolith-of-storms"
+    },
+    {
+        "id": 295,
+        "name": "Moon Hunter",
+        "type": "Dungeon",
+        "slug": "moon-hunter"
+    },
+    {
+        "id": 296,
+        "name": "Moondancer",
+        "type": "Trial",
+        "slug": "moondancer"
+    },
+    {
+        "id": 297,
+        "name": "Mora's Whispers",
+        "type": "Mythic",
+        "slug": "moras-whispers"
+    },
+    {
+        "id": 298,
+        "name": "Morkuldin",
+        "type": "Craftable",
+        "slug": "morkuldin"
+    },
+    {
+        "id": 299,
+        "name": "Mother Ciannait",
+        "type": "Monster Set",
+        "slug": "mother-ciannait"
+    },
+    {
+        "id": 300,
+        "name": "Mother's Sorrow",
+        "type": "Overland",
+        "slug": "mothers-sorrow"
+    },
+    {
+        "id": 301,
+        "name": "Naga Shaman",
+        "type": "Craftable",
+        "slug": "naga-shaman"
+    },
+    {
+        "id": 302,
+        "name": "Nazaray",
+        "type": "Monster Set",
+        "slug": "nazaray"
+    },
+    {
+        "id": 303,
+        "name": "Necropotence",
+        "type": "Overland",
+        "slug": "necropotence"
+    },
+    {
+        "id": 304,
+        "name": "Nerien'eth",
+        "type": "Monster Set",
+        "slug": "nerieneth"
+    },
+    {
+        "id": 305,
+        "name": "Netch's Touch",
+        "type": "Dungeon",
+        "slug": "netchs-touch"
+    },
+    {
+        "id": 306,
+        "name": "New Moon Acolyte",
+        "type": "Craftable",
+        "slug": "new-moon-acolyte"
+    },
+    {
+        "id": 307,
+        "name": "Nibenay Bay Battlereeve",
+        "type": "PvP",
+        "slug": "nibenay-bay-battlereeve"
+    },
+    {
+        "id": 308,
+        "name": "Night Mother's Embrace",
+        "type": "Overland",
+        "slug": "night-mothers-embrace"
+    },
+    {
+        "id": 309,
+        "name": "Night Mother's Gaze",
+        "type": "Craftable",
+        "slug": "night-mothers-gaze"
+    },
+    {
+        "id": 310,
+        "name": "Night Terror",
+        "type": "Overland",
+        "slug": "night-terror"
+    },
+    {
+        "id": 311,
+        "name": "Night's Silence",
+        "type": "Craftable",
+        "slug": "nights-silence"
+    },
+    {
+        "id": 312,
+        "name": "Nightflame",
+        "type": "Monster Set",
+        "slug": "nightflame"
+    },
+    {
+        "id": 313,
+        "name": "Nikulas' Heavy Armor",
+        "type": "Dungeon",
+        "slug": "nikulas-heavy-armor"
+    },
+    {
+        "id": 314,
+        "name": "Nix-Hound's Howl",
+        "type": "Dungeon",
+        "slug": "nix-hounds-howl"
+    },
+    {
+        "id": 315,
+        "name": "Nobility in Decay",
+        "type": "Class Sets",
+        "slug": "nobility-in-decay"
+    },
+    {
+        "id": 316,
+        "name": "Noble Duelist's Silks",
+        "type": "Dungeon",
+        "slug": "noble-duelists-silks"
+    },
+    {
+        "id": 317,
+        "name": "Noble's Conquest",
+        "type": "Craftable",
+        "slug": "nobles-conquest"
+    },
+    {
+        "id": 318,
+        "name": "Nocturnal's Favor",
+        "type": "Craftable",
+        "slug": "nocturnals-favor"
+    },
+    {
+        "id": 319,
+        "name": "Nocturnal's Ploy",
+        "type": "PvP",
+        "slug": "nocturnals-ploy"
+    },
+    {
+        "id": 320,
+        "name": "Nunatak",
+        "type": "Monster Set",
+        "slug": "nunatak"
+    },
+    {
+        "id": 321,
+        "name": "Oakensoul Ring",
+        "type": "Mythic",
+        "slug": "oakensoul-ring"
+    },
+    {
+        "id": 322,
+        "name": "Oakfather's Retribution",
+        "type": "PvP",
+        "slug": "oakfathers-retribution"
+    },
+    {
+        "id": 323,
+        "name": "Oblivion's Edge",
+        "type": "Dungeon",
+        "slug": "oblivions-edge"
+    },
+    {
+        "id": 324,
+        "name": "Oblivion's Foe",
+        "type": "Craftable",
+        "slug": "oblivions-foe"
+    },
+    {
+        "id": 325,
+        "name": "Old Growth Brewer",
+        "type": "Craftable",
+        "slug": "old-growth-brewer"
+    },
+    {
+        "id": 326,
+        "name": "Order of Diagna",
+        "type": "Overland",
+        "slug": "order-of-diagna"
+    },
+    {
+        "id": 327,
+        "name": "Order's Wrath",
+        "type": "Craftable",
+        "slug": "orders-wrath"
+    },
+    {
+        "id": 328,
+        "name": "Orgnum's Scales",
+        "type": "Craftable",
+        "slug": "orgnums-scales"
+    },
+    {
+        "id": 329,
+        "name": "Overwhelming Surge",
+        "type": "Dungeon",
+        "slug": "overwhelming-surge"
+    },
+    {
+        "id": 330,
+        "name": "Ozezan the Inferno",
+        "type": "Monster Set",
+        "slug": "ozezan-the-inferno"
+    },
+    {
+        "id": 331,
+        "name": "Pangrit Denmother",
+        "type": "Dungeon",
+        "slug": "pangrit-denmother"
+    },
+    {
+        "id": 332,
+        "name": "Para Bellum",
+        "type": "Arena",
+        "slug": "para-bellum"
+    },
+    {
+        "id": 333,
+        "name": "Peace and Serenity",
+        "type": "Trial",
+        "slug": "peace-and-serenity"
+    },
+    {
+        "id": 334,
+        "name": "Pearlescent Ward",
+        "type": "Trial",
+        "slug": "pearlescent-ward"
+    },
+    {
+        "id": 335,
+        "name": "Pearls of Ehlnofey",
+        "type": "Mythic",
+        "slug": "pearls-of-ehlnofey"
+    },
+    {
+        "id": 336,
+        "name": "Pelinal's Wrath",
+        "type": "Craftable",
+        "slug": "pelinals-wrath"
+    },
+    {
+        "id": 337,
+        "name": "Perfected Aegis of Galenwe",
+        "type": "Trial",
+        "slug": "perfected-aegis-of-galenwe"
+    },
+    {
+        "id": 338,
+        "name": "Perfected Ansuul's Torment",
+        "type": "Trial",
+        "slug": "perfected-ansuuls-torment"
+    },
+    {
+        "id": 339,
+        "name": "Perfected Arms of Relequen",
+        "type": "Trial",
+        "slug": "perfected-arms-of-relequen"
+    },
+    {
+        "id": 340,
+        "name": "Perfected Bahsei's Mania",
+        "type": "Trial",
+        "slug": "perfected-bahseis-mania"
+    },
+    {
+        "id": 341,
+        "name": "Perfected Caustic Arrow",
+        "type": "Arena",
+        "slug": "perfected-caustic-arrow"
+    },
+    {
+        "id": 342,
+        "name": "Perfected Chaotic Whirlwind",
+        "type": "Trial",
+        "slug": "perfected-chaotic-whirlwind"
+    },
+    {
+        "id": 343,
+        "name": "Perfected Claw of Yolnahkriin",
+        "type": "Trial",
+        "slug": "perfected-claw-of-yolnahkriin"
+    },
+    {
+        "id": 344,
+        "name": "Perfected Concentrated Force",
+        "type": "Trial",
+        "slug": "perfected-concentrated-force"
+    },
+    {
+        "id": 345,
+        "name": "Perfected Coral Riptide",
+        "type": "Trial",
+        "slug": "perfected-coral-riptide"
+    },
+    {
+        "id": 346,
+        "name": "Perfected Cruel Flurry",
+        "type": "Arena",
+        "slug": "perfected-cruel-flurry"
+    },
+    {
+        "id": 347,
+        "name": "Perfected Crushing Wall",
+        "type": "Arena",
+        "slug": "perfected-crushing-wall"
+    },
+    {
+        "id": 348,
+        "name": "Perfected Defensive Position",
+        "type": "Trial",
+        "slug": "perfected-defensive-position"
+    },
+    {
+        "id": 349,
+        "name": "Perfected Destructive Impact",
+        "type": "Arena",
+        "slug": "perfected-destructive-impact"
+    },
+    {
+        "id": 350,
+        "name": "Perfected Disciplined Slash",
+        "type": "Trial",
+        "slug": "perfected-disciplined-slash"
+    },
+    {
+        "id": 351,
+        "name": "Perfected Executioner's Blade",
+        "type": "Arena",
+        "slug": "perfected-executioners-blade"
+    },
+    {
+        "id": 352,
+        "name": "Perfected Eye of Nahviintaas",
+        "type": "Trial",
+        "slug": "perfected-eye-of-nahviintaas"
+    },
+    {
+        "id": 353,
+        "name": "Perfected False God's Devotion",
+        "type": "Trial",
+        "slug": "perfected-false-gods-devotion"
+    },
+    {
+        "id": 354,
+        "name": "Perfected Force Overflow",
+        "type": "Arena",
+        "slug": "perfected-force-overflow"
+    },
+    {
+        "id": 355,
+        "name": "Perfected Frenzied Momentum",
+        "type": "Arena",
+        "slug": "perfected-frenzied-momentum"
+    },
+    {
+        "id": 356,
+        "name": "Perfected Gallant Charge",
+        "type": "Arena",
+        "slug": "perfected-gallant-charge"
+    },
+    {
+        "id": 357,
+        "name": "Perfected Grand Rejuvenation",
+        "type": "Arena",
+        "slug": "perfected-grand-rejuvenation"
+    },
+    {
+        "id": 358,
+        "name": "Perfected Kyne's Wind",
+        "type": "Trial",
+        "slug": "perfected-kynes-wind"
+    },
+    {
+        "id": 359,
+        "name": "Perfected Mantle of Siroria",
+        "type": "Trial",
+        "slug": "perfected-mantle-of-siroria"
+    },
+    {
+        "id": 360,
+        "name": "Perfected Mender's Ward",
+        "type": "Arena",
+        "slug": "perfected-menders-ward"
+    },
+    {
+        "id": 361,
+        "name": "Perfected Merciless Charge",
+        "type": "Arena",
+        "slug": "perfected-merciless-charge"
+    },
+    {
+        "id": 362,
+        "name": "Perfected Peace and Serenity",
+        "type": "Trial",
+        "slug": "perfected-peace-and-serenity"
+    },
+    {
+        "id": 363,
+        "name": "Perfected Pearlescent Ward",
+        "type": "Trial",
+        "slug": "perfected-pearlescent-ward"
+    },
+    {
+        "id": 364,
+        "name": "Perfected Piercing Spray",
+        "type": "Trial",
+        "slug": "perfected-piercing-spray"
+    },
+    {
+        "id": 365,
+        "name": "Perfected Pillager's Profit",
+        "type": "Trial",
+        "slug": "perfected-pillagers-profit"
+    },
+    {
+        "id": 366,
+        "name": "Perfected Point-Blank Snipe",
+        "type": "Arena",
+        "slug": "perfected-point-blank-snipe"
+    },
+    {
+        "id": 367,
+        "name": "Perfected Precise Regeneration",
+        "type": "Arena",
+        "slug": "perfected-precise-regeneration"
+    },
+    {
+        "id": 368,
+        "name": "Perfected Puncturing Remedy",
+        "type": "Arena",
+        "slug": "perfected-puncturing-remedy"
+    },
+    {
+        "id": 369,
+        "name": "Perfected Radial Uppercut",
+        "type": "Arena",
+        "slug": "perfected-radial-uppercut"
+    },
+    {
+        "id": 370,
+        "name": "Perfected Rampaging Slash",
+        "type": "Arena",
+        "slug": "perfected-rampaging-slash"
+    },
+    {
+        "id": 371,
+        "name": "Perfected Roaring Opportunist",
+        "type": "Trial",
+        "slug": "perfected-roaring-opportunist"
+    },
+    {
+        "id": 372,
+        "name": "Perfected Saxhleel Champion",
+        "type": "Trial",
+        "slug": "perfected-saxhleel-champion"
+    },
+    {
+        "id": 373,
+        "name": "Perfected Spectral Cloak",
+        "type": "Arena",
+        "slug": "perfected-spectral-cloak"
+    },
+    {
+        "id": 374,
+        "name": "Perfected Stinging Slashes",
+        "type": "Arena",
+        "slug": "perfected-stinging-slashes"
+    },
+    {
+        "id": 375,
+        "name": "Perfected Stone-Talker's Oath",
+        "type": "Trial",
+        "slug": "perfected-stone-talkers-oath"
+    },
+    {
+        "id": 376,
+        "name": "Perfected Sul-Xan's Torment",
+        "type": "Trial",
+        "slug": "perfected-sul-xans-torment"
+    },
+    {
+        "id": 377,
+        "name": "Perfected Test of Resolve",
+        "type": "Trial",
+        "slug": "perfected-test-of-resolve"
+    },
+    {
+        "id": 378,
+        "name": "Perfected Thunderous Volley",
+        "type": "Arena",
+        "slug": "perfected-thunderous-volley"
+    },
+    {
+        "id": 379,
+        "name": "Perfected Timeless Blessing",
+        "type": "Trial",
+        "slug": "perfected-timeless-blessing"
+    },
+    {
+        "id": 380,
+        "name": "Perfected Titanic Cleave",
+        "type": "Arena",
+        "slug": "perfected-titanic-cleave"
+    },
+    {
+        "id": 381,
+        "name": "Perfected Tooth of Lokkestiiz",
+        "type": "Trial",
+        "slug": "perfected-tooth-of-lokkestiiz"
+    },
+    {
+        "id": 382,
+        "name": "Perfected Transformative Hope",
+        "type": "Trial",
+        "slug": "perfected-transformative-hope"
+    },
+    {
+        "id": 383,
+        "name": "Perfected Vestment of Olorime",
+        "type": "Trial",
+        "slug": "perfected-vestment-of-olorime"
+    },
+    {
+        "id": 384,
+        "name": "Perfected Virulent Shot",
+        "type": "Arena",
+        "slug": "perfected-virulent-shot"
+    },
+    {
+        "id": 385,
+        "name": "Perfected Void Bash",
+        "type": "Arena",
+        "slug": "perfected-void-bash"
+    },
+    {
+        "id": 386,
+        "name": "Perfected Vrol's Command",
+        "type": "Trial",
+        "slug": "perfected-vrols-command"
+    },
+    {
+        "id": 387,
+        "name": "Perfected Whorl of the Depths",
+        "type": "Trial",
+        "slug": "perfected-whorl-of-the-depths"
+    },
+    {
+        "id": 388,
+        "name": "Perfected Wild Impulse",
+        "type": "Arena",
+        "slug": "perfected-wild-impulse"
+    },
+    {
+        "id": 389,
+        "name": "Perfected Wrath of Elements",
+        "type": "Arena",
+        "slug": "perfected-wrath-of-elements"
+    },
+    {
+        "id": 390,
+        "name": "Perfected Yandir's Might",
+        "type": "Trial",
+        "slug": "perfected-yandirs-might"
+    },
+    {
+        "id": 391,
+        "name": "Permafrost",
+        "type": "Arena",
+        "slug": "permafrost"
+    },
+    {
+        "id": 392,
+        "name": "Pestilent Host",
+        "type": "Arena",
+        "slug": "pestilent-host"
+    },
+    {
+        "id": 393,
+        "name": "Phoenix",
+        "type": "PvP",
+        "slug": "phoenix"
+    },
+    {
+        "id": 394,
+        "name": "Phoenix Moth Theurge",
+        "type": "Overland",
+        "slug": "phoenix-moth-theurge"
+    },
+    {
+        "id": 395,
+        "name": "Phylactery's Grasp",
+        "type": "Dungeon",
+        "slug": "phylacterys-grasp"
+    },
+    {
+        "id": 396,
+        "name": "Piercing Spray",
+        "type": "Trial",
+        "slug": "piercing-spray"
+    },
+    {
+        "id": 397,
+        "name": "Pillager's Profit",
+        "type": "Trial",
+        "slug": "pillagers-profit"
+    },
+    {
+        "id": 398,
+        "name": "Pillar of Nirn",
+        "type": "Dungeon",
+        "slug": "pillar-of-nirn"
+    },
+    {
+        "id": 399,
+        "name": "Pirate Skeleton",
+        "type": "Monster Set",
+        "slug": "pirate-skeleton"
+    },
+    {
+        "id": 400,
+        "name": "Plague Doctor",
+        "type": "Overland",
+        "slug": "plague-doctor"
+    },
+    {
+        "id": 401,
+        "name": "Plague Slinger",
+        "type": "Dungeon",
+        "slug": "plague-slinger"
+    },
+    {
+        "id": 402,
+        "name": "Plaguebreak",
+        "type": "PvP",
+        "slug": "plaguebreak"
+    },
+    {
+        "id": 403,
+        "name": "Point-Blank Snipe",
+        "type": "Arena",
+        "slug": "point-blank-snipe"
+    },
+    {
+        "id": 404,
+        "name": "Poisonous Serpent",
+        "type": "Trial",
+        "slug": "poisonous-serpent"
+    },
+    {
+        "id": 405,
+        "name": "Powerful Assault",
+        "type": "PvP",
+        "slug": "powerful-assault"
+    },
+    {
+        "id": 406,
+        "name": "Prayer Shawl",
+        "type": "Dungeon",
+        "slug": "prayer-shawl"
+    },
+    {
+        "id": 407,
+        "name": "Precise Regeneration",
+        "type": "Arena",
+        "slug": "precise-regeneration"
+    },
+    {
+        "id": 408,
+        "name": "Prior Thierric",
+        "type": "Monster Set",
+        "slug": "prior-thierric"
+    },
+    {
+        "id": 409,
+        "name": "Prisoner's Rags",
+        "type": "Overland",
+        "slug": "prisoners-rags"
+    },
+    {
+        "id": 410,
+        "name": "Prophet's",
+        "type": "Unknown",
+        "slug": "prophets"
+    },
+    {
+        "id": 411,
+        "name": "Puncturing Remedy",
+        "type": "Arena",
+        "slug": "puncturing-remedy"
+    },
+    {
+        "id": 412,
+        "name": "Queen's Elegance",
+        "type": "Overland",
+        "slug": "queens-elegance"
+    },
+    {
+        "id": 413,
+        "name": "Quick Serpent",
+        "type": "Trial",
+        "slug": "quick-serpent"
+    },
+    {
+        "id": 414,
+        "name": "Radial Uppercut",
+        "type": "Arena",
+        "slug": "radial-uppercut"
+    },
+    {
+        "id": 415,
+        "name": "Radiant Bastion",
+        "type": "Overland",
+        "slug": "radiant-bastion"
+    },
+    {
+        "id": 416,
+        "name": "Rage of the Ursauk",
+        "type": "Dungeon",
+        "slug": "rage-of-the-ursauk"
+    },
+    {
+        "id": 417,
+        "name": "Rallying Cry",
+        "type": "PvP",
+        "slug": "rallying-cry"
+    },
+    {
+        "id": 418,
+        "name": "Rampaging Slash",
+        "type": "Arena",
+        "slug": "rampaging-slash"
+    },
+    {
+        "id": 419,
+        "name": "Ranger's Gait",
+        "type": "Overland",
+        "slug": "rangers-gait"
+    },
+    {
+        "id": 420,
+        "name": "Rattlecage",
+        "type": "Dungeon",
+        "slug": "rattlecage"
+    },
+    {
+        "id": 421,
+        "name": "Ravager",
+        "type": "PvP",
+        "slug": "ravager"
+    },
+    {
+        "id": 422,
+        "name": "Reactive Armor",
+        "type": "PvP",
+        "slug": "reactive-armor"
+    },
+    {
+        "id": 423,
+        "name": "Reawakened Hierophant",
+        "type": "Class Sets",
+        "slug": "reawakened-hierophant"
+    },
+    {
+        "id": 424,
+        "name": "Red Eagle's Fury",
+        "type": "Craftable",
+        "slug": "red-eagles-fury"
+    },
+    {
+        "id": 425,
+        "name": "Redistributor",
+        "type": "Craftable",
+        "slug": "redistributor"
+    },
+    {
+        "id": 426,
+        "name": "Reflected Fury",
+        "type": "Dungeon",
+        "slug": "reflected-fury"
+    },
+    {
+        "id": 427,
+        "name": "Relics of the Physician, Ansur",
+        "type": "Unknown",
+        "slug": "relics-of-the-physician-ansur"
+    },
+    {
+        "id": 428,
+        "name": "Relics of the Rebellion",
+        "type": "Unknown",
+        "slug": "relics-of-the-rebellion"
+    },
+    {
+        "id": 429,
+        "name": "Renald's Resolve",
+        "type": "Dungeon",
+        "slug": "renalds-resolve"
+    },
+    {
+        "id": 430,
+        "name": "Ring of the Pale Order",
+        "type": "Mythic",
+        "slug": "ring-of-the-pale-order"
+    },
+    {
+        "id": 431,
+        "name": "Ring of the Wild Hunt",
+        "type": "Mythic",
+        "slug": "ring-of-the-wild-hunt"
+    },
+    {
+        "id": 432,
+        "name": "Ritemaster's Bond",
+        "type": "Dungeon",
+        "slug": "ritemasters-bond"
+    },
+    {
+        "id": 433,
+        "name": "Roar of Alkosh",
+        "type": "Trial",
+        "slug": "roar-of-alkosh"
+    },
+    {
+        "id": 434,
+        "name": "Roaring Opportunist",
+        "type": "Trial",
+        "slug": "roaring-opportunist"
+    },
+    {
+        "id": 435,
+        "name": "Robes of Alteration Mastery",
+        "type": "PvP",
+        "slug": "robes-of-alteration-mastery"
+    },
+    {
+        "id": 436,
+        "name": "Robes of Destruction Mastery",
+        "type": "Arena",
+        "slug": "robes-of-destruction-mastery"
+    },
+    {
+        "id": 437,
+        "name": "Robes of Transmutation",
+        "type": "PvP",
+        "slug": "robes-of-transmutation"
+    },
+    {
+        "id": 438,
+        "name": "Robes of the Hist",
+        "type": "Overland",
+        "slug": "robes-of-the-hist"
+    },
+    {
+        "id": 439,
+        "name": "Robes of the Withered Hand",
+        "type": "Overland",
+        "slug": "robes-of-the-withered-hand"
+    },
+    {
+        "id": 440,
+        "name": "Roksa the Warped",
+        "type": "Monster Set",
+        "slug": "roksa-the-warped"
+    },
+    {
+        "id": 441,
+        "name": "Runecarver's Blaze",
+        "type": "Dungeon",
+        "slug": "runecarvers-blaze"
+    },
+    {
+        "id": 442,
+        "name": "Rush of Agony",
+        "type": "Dungeon",
+        "slug": "rush-of-agony"
+    },
+    {
+        "id": 443,
+        "name": "Salvation",
+        "type": "Overland",
+        "slug": "salvation"
+    },
+    {
+        "id": 444,
+        "name": "Sanctuary",
+        "type": "Dungeon",
+        "slug": "sanctuary"
+    },
+    {
+        "id": 445,
+        "name": "Savage Werewolf",
+        "type": "Dungeon",
+        "slug": "savage-werewolf"
+    },
+    {
+        "id": 446,
+        "name": "Saxhleel Champion",
+        "type": "Trial",
+        "slug": "saxhleel-champion"
+    },
+    {
+        "id": 447,
+        "name": "Scathing Mage",
+        "type": "Dungeon",
+        "slug": "scathing-mage"
+    },
+    {
+        "id": 448,
+        "name": "Scavenging Demise",
+        "type": "Dungeon",
+        "slug": "scavenging-demise"
+    },
+    {
+        "id": 449,
+        "name": "Scorion's Feast",
+        "type": "Dungeon",
+        "slug": "scorions-feast"
+    },
+    {
+        "id": 450,
+        "name": "Scourge Harvester",
+        "type": "Monster Set",
+        "slug": "scourge-harvester"
+    },
+    {
+        "id": 451,
+        "name": "Sea-Serpent's Coil",
+        "type": "Mythic",
+        "slug": "sea-serpents-coil"
+    },
+    {
+        "id": 452,
+        "name": "Seeker Synthesis",
+        "type": "Craftable",
+        "slug": "seeker-synthesis"
+    },
+    {
+        "id": 453,
+        "name": "Selene",
+        "type": "Monster Set",
+        "slug": "selene"
+    },
+    {
+        "id": 454,
+        "name": "Sellistrix",
+        "type": "Monster Set",
+        "slug": "sellistrix"
+    },
+    {
+        "id": 455,
+        "name": "Senchal Defender",
+        "type": "Overland",
+        "slug": "senchal-defender"
+    },
+    {
+        "id": 456,
+        "name": "Senche's Bite",
+        "type": "Overland",
+        "slug": "senches-bite"
+    },
+    {
+        "id": 457,
+        "name": "Senche-Raht's Grit",
+        "type": "Craftable",
+        "slug": "senche-rahts-grit"
+    },
+    {
+        "id": 458,
+        "name": "Sentinel of Rkugamz",
+        "type": "Monster Set",
+        "slug": "sentinel-of-rkugamz"
+    },
+    {
+        "id": 459,
+        "name": "Sentry",
+        "type": "PvP",
+        "slug": "sentry"
+    },
+    {
+        "id": 460,
+        "name": "Sergeant's Mail",
+        "type": "Dungeon",
+        "slug": "sergeants-mail"
+    },
+    {
+        "id": 461,
+        "name": "Serpent's Disdain",
+        "type": "Craftable",
+        "slug": "serpents-disdain"
+    },
+    {
+        "id": 462,
+        "name": "Seventh Legion Brute",
+        "type": "Overland",
+        "slug": "seventh-legion-brute"
+    },
+    {
+        "id": 463,
+        "name": "Shacklebreaker",
+        "type": "Craftable",
+        "slug": "shacklebreaker"
+    },
+    {
+        "id": 464,
+        "name": "Shadow Dancer's Raiment",
+        "type": "Overland",
+        "slug": "shadow-dancers-raiment"
+    },
+    {
+        "id": 465,
+        "name": "Shadow Walker",
+        "type": "PvP",
+        "slug": "shadow-walker"
+    },
+    {
+        "id": 466,
+        "name": "Shadow of the Red Mountain",
+        "type": "Overland",
+        "slug": "shadow-of-the-red-mountain"
+    },
+    {
+        "id": 467,
+        "name": "Shadowrend",
+        "type": "Monster Set",
+        "slug": "shadowrend"
+    },
+    {
+        "id": 468,
+        "name": "Shalidor's Curse",
+        "type": "Craftable",
+        "slug": "shalidors-curse"
+    },
+    {
+        "id": 469,
+        "name": "Shalk Exoskeleton",
+        "type": "Overland",
+        "slug": "shalk-exoskeleton"
+    },
+    {
+        "id": 470,
+        "name": "Shapeshifter's Chain",
+        "type": "Mythic",
+        "slug": "shapeshifters-chain"
+    },
+    {
+        "id": 471,
+        "name": "Shattered Fate",
+        "type": "Craftable",
+        "slug": "shattered-fate"
+    },
+    {
+        "id": 472,
+        "name": "Sheer Venom",
+        "type": "Dungeon",
+        "slug": "sheer-venom"
+    },
+    {
+        "id": 473,
+        "name": "Shell Splitter",
+        "type": "PvP",
+        "slug": "shell-splitter"
+    },
+    {
+        "id": 474,
+        "name": "Shield Breaker",
+        "type": "PvP",
+        "slug": "shield-breaker"
+    },
+    {
+        "id": 475,
+        "name": "Shield of the Valiant",
+        "type": "PvP",
+        "slug": "shield-of-the-valiant"
+    },
+    {
+        "id": 476,
+        "name": "Shroud of the Lich",
+        "type": "Dungeon",
+        "slug": "shroud-of-the-lich"
+    },
+    {
+        "id": 477,
+        "name": "Silks of the Sun",
+        "type": "Overland",
+        "slug": "silks-of-the-sun"
+    },
+    {
+        "id": 478,
+        "name": "Silver Rose Vigil",
+        "type": "Dungeon",
+        "slug": "silver-rose-vigil"
+    },
+    {
+        "id": 479,
+        "name": "Sithis' Touch",
+        "type": "Overland",
+        "slug": "sithis-touch"
+    },
+    {
+        "id": 480,
+        "name": "Skooma Smuggler",
+        "type": "Overland",
+        "slug": "skooma-smuggler"
+    },
+    {
+        "id": 481,
+        "name": "Slimecraw",
+        "type": "Monster Set",
+        "slug": "slimecraw"
+    },
+    {
+        "id": 482,
+        "name": "Sload's Semblance",
+        "type": "Craftable",
+        "slug": "sloads-semblance"
+    },
+    {
+        "id": 483,
+        "name": "Sluthrug's Hunger",
+        "type": "Dungeon",
+        "slug": "sluthrugs-hunger"
+    },
+    {
+        "id": 484,
+        "name": "Snake in the Stars",
+        "type": "PvP",
+        "slug": "snake-in-the-stars"
+    },
+    {
+        "id": 485,
+        "name": "Snow Treaders",
+        "type": "Mythic",
+        "slug": "snow-treaders"
+    },
+    {
+        "id": 486,
+        "name": "Soldier of Anguish",
+        "type": "PvP",
+        "slug": "soldier-of-anguish"
+    },
+    {
+        "id": 487,
+        "name": "Song of Lamae",
+        "type": "Craftable",
+        "slug": "song-of-lamae"
+    },
+    {
+        "id": 488,
+        "name": "Soulcleaver",
+        "type": "Class Sets",
+        "slug": "soulcleaver"
+    },
+    {
+        "id": 489,
+        "name": "Soulshine",
+        "type": "Overland",
+        "slug": "soulshine"
+    },
+    {
+        "id": 490,
+        "name": "Spaulder of Ruin",
+        "type": "Mythic",
+        "slug": "spaulder-of-ruin"
+    },
+    {
+        "id": 491,
+        "name": "Spawn of Mephala",
+        "type": "Monster Set",
+        "slug": "spawn-of-mephala"
+    },
+    {
+        "id": 492,
+        "name": "Spectral Cloak",
+        "type": "Arena",
+        "slug": "spectral-cloak"
+    },
+    {
+        "id": 493,
+        "name": "Spectre's Eye",
+        "type": "Craftable",
+        "slug": "spectres-eye"
+    },
+    {
+        "id": 494,
+        "name": "Spell Parasite",
+        "type": "Craftable",
+        "slug": "spell-parasite"
+    },
+    {
+        "id": 495,
+        "name": "Spell Power Cure",
+        "type": "Dungeon",
+        "slug": "spell-power-cure"
+    },
+    {
+        "id": 496,
+        "name": "Spell Strategist",
+        "type": "PvP",
+        "slug": "spell-strategist"
+    },
+    {
+        "id": 497,
+        "name": "Spelunker",
+        "type": "Dungeon",
+        "slug": "spelunker"
+    },
+    {
+        "id": 498,
+        "name": "Spider Cultist Cowl",
+        "type": "Dungeon",
+        "slug": "spider-cultist-cowl"
+    },
+    {
+        "id": 499,
+        "name": "Spinner's Garments",
+        "type": "Overland",
+        "slug": "spinners-garments"
+    },
+    {
+        "id": 500,
+        "name": "Spriggan's Thorns",
+        "type": "Overland",
+        "slug": "spriggans-thorns"
+    },
+    {
+        "id": 501,
+        "name": "Spriggan's Vigor",
+        "type": "Dungeon",
+        "slug": "spriggans-vigor"
+    },
+    {
+        "id": 502,
+        "name": "Steadfast Hero",
+        "type": "PvP",
+        "slug": "steadfast-hero"
+    },
+    {
+        "id": 503,
+        "name": "Steadfast's Mettle",
+        "type": "Overland",
+        "slug": "steadfasts-mettle"
+    },
+    {
+        "id": 504,
+        "name": "Stendarr's Embrace",
+        "type": "Overland",
+        "slug": "stendarrs-embrace"
+    },
+    {
+        "id": 505,
+        "name": "Stinging Slashes",
+        "type": "Arena",
+        "slug": "stinging-slashes"
+    },
+    {
+        "id": 506,
+        "name": "Stone Husk",
+        "type": "Monster Set",
+        "slug": "stone-husk"
+    },
+    {
+        "id": 507,
+        "name": "Stone's Accord",
+        "type": "Dungeon",
+        "slug": "stones-accord"
+    },
+    {
+        "id": 508,
+        "name": "Stone-Talker's Oath",
+        "type": "Trial",
+        "slug": "stone-talkers-oath"
+    },
+    {
+        "id": 509,
+        "name": "Stonekeeper",
+        "type": "Monster Set",
+        "slug": "stonekeeper"
+    },
+    {
+        "id": 510,
+        "name": "Storm Knight's Plate",
+        "type": "Overland",
+        "slug": "storm-knights-plate"
+    },
+    {
+        "id": 511,
+        "name": "Storm Master",
+        "type": "Dungeon",
+        "slug": "storm-master"
+    },
+    {
+        "id": 512,
+        "name": "Storm-Cursed's Revenge",
+        "type": "Dungeon",
+        "slug": "storm-curseds-revenge"
+    },
+    {
+        "id": 513,
+        "name": "Stormfist",
+        "type": "Monster Set",
+        "slug": "stormfist"
+    },
+    {
+        "id": 514,
+        "name": "Stormweaver's Cavort",
+        "type": "Mythic",
+        "slug": "stormweavers-cavort"
+    },
+    {
+        "id": 515,
+        "name": "Strength of the Automaton",
+        "type": "Dungeon",
+        "slug": "strength-of-the-automaton"
+    },
+    {
+        "id": 516,
+        "name": "Stuhn's Favor",
+        "type": "Craftable",
+        "slug": "stuhns-favor"
+    },
+    {
+        "id": 517,
+        "name": "Stygian",
+        "type": "Overland",
+        "slug": "stygian"
+    },
+    {
+        "id": 518,
+        "name": "Sul-Xan's Torment",
+        "type": "Trial",
+        "slug": "sul-xans-torment"
+    },
+    {
+        "id": 519,
+        "name": "Sunderflame",
+        "type": "Dungeon",
+        "slug": "sunderflame"
+    },
+    {
+        "id": 520,
+        "name": "Swamp Raider",
+        "type": "Overland",
+        "slug": "swamp-raider"
+    },
+    {
+        "id": 521,
+        "name": "Swarm Mother",
+        "type": "Monster Set",
+        "slug": "swarm-mother"
+    },
+    {
+        "id": 522,
+        "name": "Sword Dancer",
+        "type": "Dungeon",
+        "slug": "sword-dancer"
+    },
+    {
+        "id": 523,
+        "name": "Sword-Singer",
+        "type": "Overland",
+        "slug": "sword-singer"
+    },
+    {
+        "id": 524,
+        "name": "Symphony of Blades",
+        "type": "Monster Set",
+        "slug": "symphony-of-blades"
+    },
+    {
+        "id": 525,
+        "name": "Syrabane's Grip",
+        "type": "Overland",
+        "slug": "syrabanes-grip"
+    },
+    {
+        "id": 526,
+        "name": "Syrabane's Ward",
+        "type": "Mythic",
+        "slug": "syrabanes-ward"
+    },
+    {
+        "id": 527,
+        "name": "Systres' Scowl",
+        "type": "Overland",
+        "slug": "systres-scowl"
+    },
+    {
+        "id": 528,
+        "name": "Syvarra's Scales",
+        "type": "Overland",
+        "slug": "syvarras-scales"
+    },
+    {
+        "id": 529,
+        "name": "Talfyg's Treachery",
+        "type": "Dungeon",
+        "slug": "talfygs-treachery"
+    },
+    {
+        "id": 530,
+        "name": "Tarnished Nightmare",
+        "type": "Dungeon",
+        "slug": "tarnished-nightmare"
+    },
+    {
+        "id": 531,
+        "name": "Tava's Favor",
+        "type": "Craftable",
+        "slug": "tavas-favor"
+    },
+    {
+        "id": 532,
+        "name": "Telvanni Efficiency",
+        "type": "Craftable",
+        "slug": "telvanni-efficiency"
+    },
+    {
+        "id": 533,
+        "name": "Telvanni Enforcer",
+        "type": "Dungeon",
+        "slug": "telvanni-enforcer"
+    },
+    {
+        "id": 534,
+        "name": "Test of Resolve",
+        "type": "Trial",
+        "slug": "test-of-resolve"
+    },
+    {
+        "id": 535,
+        "name": "The Arch-Mage",
+        "type": "PvP",
+        "slug": "the-arch-mage"
+    },
+    {
+        "id": 536,
+        "name": "The Blind",
+        "type": "Monster Set",
+        "slug": "the-blind"
+    },
+    {
+        "id": 537,
+        "name": "The Destruction Suite",
+        "type": "Unknown",
+        "slug": "the-destruction-suite"
+    },
+    {
+        "id": 538,
+        "name": "The Ice Furnace",
+        "type": "Dungeon",
+        "slug": "the-ice-furnace"
+    },
+    {
+        "id": 539,
+        "name": "The Juggernaut",
+        "type": "PvP",
+        "slug": "the-juggernaut"
+    },
+    {
+        "id": 540,
+        "name": "The Morag Tong",
+        "type": "PvP",
+        "slug": "the-morag-tong"
+    },
+    {
+        "id": 541,
+        "name": "The Troll King",
+        "type": "Monster Set",
+        "slug": "the-troll-king"
+    },
+    {
+        "id": 542,
+        "name": "The Worm's Raiment",
+        "type": "Dungeon",
+        "slug": "the-worms-raiment"
+    },
+    {
+        "id": 543,
+        "name": "Thews of the Harbinger",
+        "type": "PvP",
+        "slug": "thews-of-the-harbinger"
+    },
+    {
+        "id": 544,
+        "name": "Thrassian Stranglers",
+        "type": "Mythic",
+        "slug": "thrassian-stranglers"
+    },
+    {
+        "id": 545,
+        "name": "Thunder Caller",
+        "type": "Dungeon",
+        "slug": "thunder-caller"
+    },
+    {
+        "id": 546,
+        "name": "Thunderbug's Carapace",
+        "type": "Overland",
+        "slug": "thunderbugs-carapace"
+    },
+    {
+        "id": 547,
+        "name": "Thunderous Volley",
+        "type": "Arena",
+        "slug": "thunderous-volley"
+    },
+    {
+        "id": 548,
+        "name": "Thurvokun",
+        "type": "Monster Set",
+        "slug": "thurvokun"
+    },
+    {
+        "id": 549,
+        "name": "Timeless Blessing",
+        "type": "Trial",
+        "slug": "timeless-blessing"
+    },
+    {
+        "id": 550,
+        "name": "Titanborn Strength",
+        "type": "Dungeon",
+        "slug": "titanborn-strength"
+    },
+    {
+        "id": 551,
+        "name": "Titanic Cleave",
+        "type": "Arena",
+        "slug": "titanic-cleave"
+    },
+    {
+        "id": 552,
+        "name": "Tooth of Lokkestiiz",
+        "type": "Trial",
+        "slug": "tooth-of-lokkestiiz"
+    },
+    {
+        "id": 553,
+        "name": "Toothrow",
+        "type": "Dungeon",
+        "slug": "toothrow"
+    },
+    {
+        "id": 554,
+        "name": "Torc of Tonal Constancy",
+        "type": "Mythic",
+        "slug": "torc-of-tonal-constancy"
+    },
+    {
+        "id": 555,
+        "name": "Torc of the Last Ayleid King",
+        "type": "Mythic",
+        "slug": "torc-of-the-last-ayleid-king"
+    },
+    {
+        "id": 556,
+        "name": "Tormentor",
+        "type": "Dungeon",
+        "slug": "tormentor"
+    },
+    {
+        "id": 557,
+        "name": "Torug's Pact",
+        "type": "Craftable",
+        "slug": "torugs-pact"
+    },
+    {
+        "id": 558,
+        "name": "Transformative Hope",
+        "type": "Trial",
+        "slug": "transformative-hope"
+    },
+    {
+        "id": 559,
+        "name": "Trappings of Invigoration",
+        "type": "Dungeon",
+        "slug": "trappings-of-invigoration"
+    },
+    {
+        "id": 560,
+        "name": "Treasure Hunter",
+        "type": "Dungeon",
+        "slug": "treasure-hunter"
+    },
+    {
+        "id": 561,
+        "name": "Treasures of the Earthforge",
+        "type": "Unknown",
+        "slug": "treasures-of-the-earthforge"
+    },
+    {
+        "id": 562,
+        "name": "Tremorscale",
+        "type": "Monster Set",
+        "slug": "tremorscale"
+    },
+    {
+        "id": 563,
+        "name": "Trial by Fire",
+        "type": "Craftable",
+        "slug": "trial-by-fire"
+    },
+    {
+        "id": 564,
+        "name": "Trinimac's Valor",
+        "type": "Overland",
+        "slug": "trinimacs-valor"
+    },
+    {
+        "id": 565,
+        "name": "True-Sworn Fury",
+        "type": "Dungeon",
+        "slug": "true-sworn-fury"
+    },
+    {
+        "id": 566,
+        "name": "Turning Tide",
+        "type": "Dungeon",
+        "slug": "turning-tide"
+    },
+    {
+        "id": 567,
+        "name": "Twice-Born Star",
+        "type": "Craftable",
+        "slug": "twice-born-star"
+    },
+    {
+        "id": 568,
+        "name": "Twice-Fanged Serpent",
+        "type": "Trial",
+        "slug": "twice-fanged-serpent"
+    },
+    {
+        "id": 569,
+        "name": "Twilight Remedy",
+        "type": "Trial",
+        "slug": "twilight-remedy"
+    },
+    {
+        "id": 570,
+        "name": "Twilight's Embrace",
+        "type": "Craftable",
+        "slug": "twilights-embrace"
+    },
+    {
+        "id": 571,
+        "name": "Twin Sisters",
+        "type": "Overland",
+        "slug": "twin-sisters"
+    },
+    {
+        "id": 572,
+        "name": "Tzogvin's Warband",
+        "type": "Dungeon",
+        "slug": "tzogvins-warband"
+    },
+    {
+        "id": 573,
+        "name": "Ulfnor's Favor",
+        "type": "Dungeon",
+        "slug": "ulfnors-favor"
+    },
+    {
+        "id": 574,
+        "name": "Unchained Aggressor",
+        "type": "Craftable",
+        "slug": "unchained-aggressor"
+    },
+    {
+        "id": 575,
+        "name": "Undaunted Bastion",
+        "type": "Dungeon",
+        "slug": "undaunted-bastion"
+    },
+    {
+        "id": 576,
+        "name": "Undaunted Infiltrator",
+        "type": "Dungeon",
+        "slug": "undaunted-infiltrator"
+    },
+    {
+        "id": 577,
+        "name": "Undaunted Unweaver",
+        "type": "Dungeon",
+        "slug": "undaunted-unweaver"
+    },
+    {
+        "id": 578,
+        "name": "Unfathomable Darkness",
+        "type": "Overland",
+        "slug": "unfathomable-darkness"
+    },
+    {
+        "id": 579,
+        "name": "Unleashed Ritualist",
+        "type": "Dungeon",
+        "slug": "unleashed-ritualist"
+    },
+    {
+        "id": 580,
+        "name": "Unleashed Terror",
+        "type": "Dungeon",
+        "slug": "unleashed-terror"
+    },
+    {
+        "id": 581,
+        "name": "Valkyn Skoria",
+        "type": "Monster Set",
+        "slug": "valkyn-skoria"
+    },
+    {
+        "id": 582,
+        "name": "Vampire Cloak",
+        "type": "Overland",
+        "slug": "vampire-cloak"
+    },
+    {
+        "id": 583,
+        "name": "Vampire Lord",
+        "type": "Overland",
+        "slug": "vampire-lord"
+    },
+    {
+        "id": 584,
+        "name": "Vampire's Kiss",
+        "type": "Craftable",
+        "slug": "vampires-kiss"
+    },
+    {
+        "id": 585,
+        "name": "Vanguard's Challenge",
+        "type": "PvP",
+        "slug": "vanguards-challenge"
+    },
+    {
+        "id": 586,
+        "name": "Varen's Legacy",
+        "type": "Craftable",
+        "slug": "varens-legacy"
+    },
+    {
+        "id": 587,
+        "name": "Vastarie's Tutelage",
+        "type": "Craftable",
+        "slug": "vastaries-tutelage"
+    },
+    {
+        "id": 588,
+        "name": "Velidreth",
+        "type": "Monster Set",
+        "slug": "velidreth"
+    },
+    {
+        "id": 589,
+        "name": "Velothi Ur-Mage's Amulet",
+        "type": "Mythic",
+        "slug": "velothi-ur-mages-amulet"
+    },
+    {
+        "id": 590,
+        "name": "Vengeance Leech",
+        "type": "PvP",
+        "slug": "vengeance-leech"
+    },
+    {
+        "id": 591,
+        "name": "Venomous Smite",
+        "type": "Overland",
+        "slug": "venomous-smite"
+    },
+    {
+        "id": 592,
+        "name": "Vestment of Olorime",
+        "type": "Trial",
+        "slug": "vestment-of-olorime"
+    },
+    {
+        "id": 593,
+        "name": "Vestments of the Warlock",
+        "type": "Dungeon",
+        "slug": "vestments-of-the-warlock"
+    },
+    {
+        "id": 594,
+        "name": "Vesture of Darloc Brae",
+        "type": "Overland",
+        "slug": "vesture-of-darloc-brae"
+    },
+    {
+        "id": 595,
+        "name": "Vicecanon of Venom",
+        "type": "PvP",
+        "slug": "vicecanon-of-venom"
+    },
+    {
+        "id": 596,
+        "name": "Vicious Death",
+        "type": "PvP",
+        "slug": "vicious-death"
+    },
+    {
+        "id": 597,
+        "name": "Vicious Serpent",
+        "type": "Trial",
+        "slug": "vicious-serpent"
+    },
+    {
+        "id": 598,
+        "name": "Viper's Sting",
+        "type": "Dungeon",
+        "slug": "vipers-sting"
+    },
+    {
+        "id": 599,
+        "name": "Virulent Shot",
+        "type": "Arena",
+        "slug": "virulent-shot"
+    },
+    {
+        "id": 600,
+        "name": "Vivec's Duality",
+        "type": "Overland",
+        "slug": "vivecs-duality"
+    },
+    {
+        "id": 601,
+        "name": "Void Bash",
+        "type": "Arena",
+        "slug": "void-bash"
+    },
+    {
+        "id": 602,
+        "name": "Voidcaller",
+        "type": "Overland",
+        "slug": "voidcaller"
+    },
+    {
+        "id": 603,
+        "name": "Vrol's Command",
+        "type": "Trial",
+        "slug": "vrols-command"
+    },
+    {
+        "id": 604,
+        "name": "Vykosa",
+        "type": "Monster Set",
+        "slug": "vykosa"
+    },
+    {
+        "id": 605,
+        "name": "War Machine",
+        "type": "Trial",
+        "slug": "war-machine"
+    },
+    {
+        "id": 606,
+        "name": "War Maiden",
+        "type": "Overland",
+        "slug": "war-maiden"
+    },
+    {
+        "id": 607,
+        "name": "Ward of Cyrodiil",
+        "type": "PvP",
+        "slug": "ward-of-cyrodiil"
+    },
+    {
+        "id": 608,
+        "name": "Warrior's Fury",
+        "type": "PvP",
+        "slug": "warriors-fury"
+    },
+    {
+        "id": 609,
+        "name": "Warrior-Poet",
+        "type": "Overland",
+        "slug": "warrior-poet"
+    },
+    {
+        "id": 610,
+        "name": "Way of Air",
+        "type": "Overland",
+        "slug": "way-of-air"
+    },
+    {
+        "id": 611,
+        "name": "Way of Fire",
+        "type": "Overland",
+        "slug": "way-of-fire"
+    },
+    {
+        "id": 612,
+        "name": "Way of Martial Knowledge",
+        "type": "Overland",
+        "slug": "way-of-martial-knowledge"
+    },
+    {
+        "id": 613,
+        "name": "Way of the Arena",
+        "type": "Craftable",
+        "slug": "way-of-the-arena"
+    },
+    {
+        "id": 614,
+        "name": "Whitestrake's Retribution",
+        "type": "Craftable",
+        "slug": "whitestrakes-retribution"
+    },
+    {
+        "id": 615,
+        "name": "Whorl of the Depths",
+        "type": "Trial",
+        "slug": "whorl-of-the-depths"
+    },
+    {
+        "id": 616,
+        "name": "Widowmaker",
+        "type": "Dungeon",
+        "slug": "widowmaker"
+    },
+    {
+        "id": 617,
+        "name": "Wild Impulse",
+        "type": "Arena",
+        "slug": "wild-impulse"
+    },
+    {
+        "id": 618,
+        "name": "Wilderqueen's Arch",
+        "type": "Overland",
+        "slug": "wilderqueens-arch"
+    },
+    {
+        "id": 619,
+        "name": "Willow's Path",
+        "type": "Craftable",
+        "slug": "willows-path"
+    },
+    {
+        "id": 620,
+        "name": "Willpower",
+        "type": "PvP",
+        "slug": "willpower"
+    },
+    {
+        "id": 621,
+        "name": "Winter's Respite",
+        "type": "Overland",
+        "slug": "winters-respite"
+    },
+    {
+        "id": 622,
+        "name": "Winterborn",
+        "type": "Arena",
+        "slug": "winterborn"
+    },
+    {
+        "id": 623,
+        "name": "Wisdom of Vanus",
+        "type": "Overland",
+        "slug": "wisdom-of-vanus"
+    },
+    {
+        "id": 624,
+        "name": "Wise Mage",
+        "type": "Trial",
+        "slug": "wise-mage"
+    },
+    {
+        "id": 625,
+        "name": "Witch-Knight's Defiance",
+        "type": "Overland",
+        "slug": "witch-knights-defiance"
+    },
+    {
+        "id": 626,
+        "name": "Witchman Armor",
+        "type": "Overland",
+        "slug": "witchman-armor"
+    },
+    {
+        "id": 627,
+        "name": "Wizard's Riposte",
+        "type": "PvP",
+        "slug": "wizards-riposte"
+    },
+    {
+        "id": 628,
+        "name": "Wrath of Elements",
+        "type": "Arena",
+        "slug": "wrath-of-elements"
+    },
+    {
+        "id": 629,
+        "name": "Wrath of the Imperium",
+        "type": "PvP",
+        "slug": "wrath-of-the-imperium"
+    },
+    {
+        "id": 630,
+        "name": "Wrathsun",
+        "type": "Class Sets",
+        "slug": "wrathsun"
+    },
+    {
+        "id": 631,
+        "name": "Wretched Vitality",
+        "type": "Craftable",
+        "slug": "wretched-vitality"
+    },
+    {
+        "id": 632,
+        "name": "Wyrd Tree's Blessing",
+        "type": "Overland",
+        "slug": "wyrd-trees-blessing"
+    },
+    {
+        "id": 633,
+        "name": "Yandir's Might",
+        "type": "Trial",
+        "slug": "yandirs-might"
+    },
+    {
+        "id": 634,
+        "name": "Ysgramor's Birthright",
+        "type": "Overland",
+        "slug": "ysgramors-birthright"
+    },
+    {
+        "id": 635,
+        "name": "Z'en's Redress",
+        "type": "Dungeon",
+        "slug": "zens-redress"
+    },
+    {
+        "id": 636,
+        "name": "Zaan",
+        "type": "Monster Set",
+        "slug": "zaan"
+    },
+    {
+        "id": 637,
+        "name": "Zoal the Ever-Wakeful",
+        "type": "Monster Set",
+        "slug": "zoal-the-ever-wakeful"
+    }
+]
