@@ -17,9 +17,14 @@ soup = BeautifulSoup(html_content, 'html.parser')
 sets = []
 
 for index, row in enumerate(soup.select('tr'), start=1):
-    name = row.select_one('td.d-none.d-xl-table-cell.align-middle a, span.d-xl-none a').get_text(strip=True)
+    link_element = row.select_one('td.d-none.d-xl-table-cell.align-middle a, span.d-xl-none a')
+    name = link_element.get_text(strip=True)
+    href = link_element['href']
+
+    slug = href.split('/')[-1]
+
     type = row.select_one('small').get_text(strip=True) if row.select_one('small') else "Unknown Type"
-    set = {"id": index, "name": name, "type": type}
+    set = {"id": index, "name": name, "type": type, "slug": slug}
     sets.append(set)
 
 print(sets)
